@@ -44,7 +44,7 @@
 
 #include <QtCore/qstring.h>
 #include <QtCore/qobject.h>
-#include <QtFtp/qurlinfo.h>
+#include <QFtp/qurlinfo.h>
 
 QT_BEGIN_NAMESPACE
 
